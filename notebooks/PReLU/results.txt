@@ -1,0 +1,234 @@
+index: 1
+alpha: 0.001
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): nan
+accuracy(val):0.020759493670886055
+error(test):  nan
+acc(test):  0.02145569620253161
+
+index: 2
+alpha: 0.001
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.5515770786005285
+accuracy(val):0.8200632911392408
+error(test):  0.5831126428266171
+acc(test):  0.810949367088607
+
+index: 3
+alpha: 0.001
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): nan
+accuracy(val):0.020759493670886045
+error(test):  nan
+acc(test):  0.021455696202531613
+
+index: 1
+alpha: 0.1
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): nan
+accuracy(val):0.020759493670886055
+error(test):  nan
+acc(test):  0.021455696202531616
+
+index: 2
+alpha: 0.1
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): nan
+accuracy(val):0.020759493670886038
+error(test):  nan
+acc(test):  0.021455696202531616
+
+index: 3
+alpha: 0.1
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): nan
+accuracy(val):0.02075949367088605
+error(test):  nan
+acc(test):  0.021455696202531627
+
+index: 1
+alpha: 0.5
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.6839758183219073
+accuracy(val):0.8184810126582278
+error(test):  0.7353205352844773
+acc(test):  0.8093037974683542
+
+index: 2
+alpha: 0.5
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.6735514957662632
+accuracy(val):0.8230379746835439
+error(test):  0.7485766819000756
+acc(test):  0.8146835443037974
+
+index: 3
+alpha: 0.5
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.7167119235158533
+accuracy(val):0.8118354430379742
+error(test):  0.7677352055374131
+acc(test):  0.7987974683544302
+
+index: 1
+alpha: 0.1
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): nan
+accuracy(val):0.020759493670886052
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 2
+alpha: 0.1
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): nan
+accuracy(val):0.020759493670886052
+error(test):  nan
+acc(test):  0.021455696202531613
+
+index: 3
+alpha: 0.1
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): nan
+accuracy(val):0.020759493670886045
+error(test):  nan
+acc(test):  0.021455696202531616
+
+index: 1
+alpha: 0.1
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 25
+error(val): 0.5602749617876671
+accuracy(val):0.8234810126582273
+error(test):  0.6060201228324681
+acc(test):  0.8095569620253158
+
+index: 2
+alpha: 0.1
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 25
+error(val): 0.5400040850611851
+accuracy(val):0.8259493670886072
+error(test):  0.5756759632389267
+acc(test):  0.8171518987341769
+
+index: 3
+alpha: 0.1
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 25
+error(val): nan
+accuracy(val):0.02075949367088605
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 1
+alpha: 0.001
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 25
+error(val): nan
+accuracy(val):0.02075949367088605
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 2
+alpha: 0.001
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 25
+error(val): nan
+accuracy(val):0.020759493670886052
+error(test):  nan
+acc(test):  0.021455696202531613
+
+index: 3
+alpha: 0.001
+optimizer: SGD
+activation: ParametricReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 25
+error(val): nan
+accuracy(val):0.020759493670886052
+error(test):  nan
+acc(test):  0.02145569620253162
+
