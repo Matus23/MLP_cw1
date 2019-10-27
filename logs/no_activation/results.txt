@@ -1,0 +1,1620 @@
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.2178381909312708
+accuracy(val):0.6629746835443038
+error(test):  1.2432586774973065
+acc(test):  0.6541139240506324
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.2116834059026464
+accuracy(val):0.6660759493670888
+error(test):  1.235318330762288
+acc(test):  0.6543670886075956
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.207557892768456
+accuracy(val):0.6653164556962028
+error(test):  1.2336706202263887
+acc(test):  0.6531012658227855
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1687561216862068
+accuracy(val):0.6769620253164557
+error(test):  1.1972703642319067
+acc(test):  0.6649367088607597
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1695053566704452
+accuracy(val):0.6806962025316454
+error(test):  1.1973172781182744
+acc(test):  0.665126582278481
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1715009643016103
+accuracy(val):0.679303797468354
+error(test):  1.1966704011279685
+acc(test):  0.6658860759493671
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1547945223439275
+accuracy(val):0.6846835443037975
+error(test):  1.1827836422300364
+acc(test):  0.6725316455696204
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1527570176185717
+accuracy(val):0.6857594936708857
+error(test):  1.182310197997707
+acc(test):  0.6696202531645572
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1493546356240318
+accuracy(val):0.6868987341772151
+error(test):  1.1770640665899137
+acc(test):  0.6723417721518987
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.2005258427535819
+accuracy(val):0.6678481012658227
+error(test):  1.2242552784410914
+acc(test):  0.6585443037974682
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.2117765643634413
+accuracy(val):0.6618354430379746
+error(test):  1.2377630494229432
+acc(test):  0.653860759493671
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.2006485570348449
+accuracy(val):0.6694303797468355
+error(test):  1.2260527105391528
+acc(test):  0.653227848101266
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.155318662219494
+accuracy(val):0.6821518987341776
+error(test):  1.1807540125052591
+acc(test):  0.6694303797468352
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1517668459948043
+accuracy(val):0.683987341772152
+error(test):  1.1777437301978364
+acc(test):  0.6711392405063291
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1577976581608382
+accuracy(val):0.68006329113924
+error(test):  1.1858183581923174
+acc(test):  0.6705696202531646
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1268325920456221
+accuracy(val):0.6908227848101268
+error(test):  1.1558943678891749
+acc(test):  0.6794303797468355
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1333401576406748
+accuracy(val):0.6910126582278482
+error(test):  1.159847022796957
+acc(test):  0.6797468354430379
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1294651188150169
+accuracy(val):0.6896835443037976
+error(test):  1.1583169344338544
+acc(test):  0.6749999999999998
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.210877906963684
+accuracy(val):0.6644936708860761
+error(test):  1.2320165529315732
+acc(test):  0.6523417721518987
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.204293907075245
+accuracy(val):0.6627848101265824
+error(test):  1.2320157020167868
+acc(test):  0.654367088607595
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.2317792377577257
+accuracy(val):0.6547468354430377
+error(test):  1.2499874685064574
+acc(test):  0.6476582278481012
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1494326697571762
+accuracy(val):0.682974683544304
+error(test):  1.1754237209708616
+acc(test):  0.670379746835443
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1520765435285512
+accuracy(val):0.6829113924050636
+error(test):  1.1827738112881874
+acc(test):  0.6693670886075952
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1547005849775647
+accuracy(val):0.6819620253164556
+error(test):  1.1836458548439428
+acc(test):  0.6679746835443038
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1263436084247618
+accuracy(val):0.6884177215189876
+error(test):  1.1523198261648906
+acc(test):  0.6774683544303798
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1243475819852815
+accuracy(val):0.6927215189873422
+error(test):  1.1496948461296743
+acc(test):  0.6815822784810126
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.001
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1253621804035714
+accuracy(val):0.6925316455696201
+error(test):  1.1521743025114068
+acc(test):  0.6801265822784811
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1157008013498109
+accuracy(val):0.6967721518987344
+error(test):  1.1392524978345817
+acc(test):  0.6851265822784813
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1198115440361405
+accuracy(val):0.6925949367088607
+error(test):  1.1411835054791106
+acc(test):  0.6855063291139244
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1186713251138667
+accuracy(val):0.6948101265822786
+error(test):  1.1399806386202365
+acc(test):  0.6862025316455701
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.102560068495147
+accuracy(val):0.697974683544304
+error(test):  1.1273750560948324
+acc(test):  0.6883544303797464
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1024639786859463
+accuracy(val):0.7005696202531645
+error(test):  1.1274581473956615
+acc(test):  0.688860759493671
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1031434620306422
+accuracy(val):0.6963291139240505
+error(test):  1.1257451860748218
+acc(test):  0.6878481012658226
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1052233905395905
+accuracy(val):0.6975949367088605
+error(test):  1.1294412159325264
+acc(test):  0.6879113924050639
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1080807592772444
+accuracy(val):0.6955063291139232
+error(test):  1.1303754845849772
+acc(test):  0.6884810126582277
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1026629747702081
+accuracy(val):0.7003164556962027
+error(test):  1.1307898395645752
+acc(test):  0.687025316455696
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1247352309663021
+accuracy(val):0.6905063291139241
+error(test):  1.1520948018583888
+acc(test):  0.6799367088607593
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1256753302279134
+accuracy(val):0.6922784810126579
+error(test):  1.1491806249905876
+acc(test):  0.6812025316455695
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1278238815938573
+accuracy(val):0.6905696202531642
+error(test):  1.1559643708068312
+acc(test):  0.6804430379746835
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1093637719247447
+accuracy(val):0.6963291139240508
+error(test):  1.131297017786199
+acc(test):  0.687784810126582
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1104177239197497
+accuracy(val):0.6953164556962029
+error(test):  1.1320175128533623
+acc(test):  0.6886075949367089
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.113172243012118
+accuracy(val):0.7001265822784816
+error(test):  1.1369019257574446
+acc(test):  0.6894303797468356
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1099278056535644
+accuracy(val):0.6991139240506331
+error(test):  1.1323688846446884
+acc(test):  0.6900632911392405
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1133429960890333
+accuracy(val):0.6984810126582277
+error(test):  1.1388796598994595
+acc(test):  0.6861392405063295
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1142446351870263
+accuracy(val):0.6987974683544307
+error(test):  1.1365577768136157
+acc(test):  0.6850632911392398
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1364920858775323
+accuracy(val):0.685126582278481
+error(test):  1.1580570422235612
+acc(test):  0.6746202531645568
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1323674406574267
+accuracy(val):0.6912025316455698
+error(test):  1.1583416584284507
+acc(test):  0.6791139240506328
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.136816676220473
+accuracy(val):0.6870886075949367
+error(test):  1.156583863526151
+acc(test):  0.6781645569620253
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1183806993541956
+accuracy(val):0.6959493670886078
+error(test):  1.1439763319731855
+acc(test):  0.6832278481012662
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.115881468012068
+accuracy(val):0.693101265822785
+error(test):  1.1399308065325169
+acc(test):  0.6846835443037974
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1170102140312763
+accuracy(val):0.6948734177215189
+error(test):  1.1412782839643318
+acc(test):  0.6870886075949367
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1275602338915682
+accuracy(val):0.6922151898734178
+error(test):  1.1528234222879772
+acc(test):  0.6826582278481012
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.120087001276113
+accuracy(val):0.6937974683544306
+error(test):  1.1460640739631245
+acc(test):  0.6818987341772152
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1173993195335263
+accuracy(val):0.6920253164556964
+error(test):  1.1428525887470258
+acc(test):  0.6834177215189878
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1726124114870402
+accuracy(val):0.6770253164556964
+error(test):  1.1932698328791622
+acc(test):  0.663354430379747
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1667434609140614
+accuracy(val):0.6785443037974683
+error(test):  1.1833990785544704
+acc(test):  0.668227848101266
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1683105043804602
+accuracy(val):0.67746835443038
+error(test):  1.1935306536337054
+acc(test):  0.6666455696202529
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1775835072444185
+accuracy(val):0.6801265822784811
+error(test):  1.2009476774713475
+acc(test):  0.6687341772151894
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1742036700360876
+accuracy(val):0.6817721518987343
+error(test):  1.1965423488081743
+acc(test):  0.6708860759493674
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1640187310055101
+accuracy(val):0.683987341772152
+error(test):  1.187496602301239
+acc(test):  0.6730379746835445
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1730160498925715
+accuracy(val):0.6784810126582271
+error(test):  1.1983915050860574
+acc(test):  0.666645569620253
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1744092550857912
+accuracy(val):0.6735443037974684
+error(test):  1.194705027882808
+acc(test):  0.6655696202531651
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1847032338186272
+accuracy(val):0.6749367088607597
+error(test):  1.2026947222675664
+acc(test):  0.6673417721518985
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1822765124954282
+accuracy(val):0.6727215189873419
+error(test):  1.202435266296808
+acc(test):  0.6641139240506327
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1808600627647579
+accuracy(val):0.6723417721518983
+error(test):  1.2164995776312542
+acc(test):  0.656898734177215
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.186543133693495
+accuracy(val):0.6692405063291138
+error(test):  1.2027844825128573
+acc(test):  0.6622784810126582
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1953752047893877
+accuracy(val):0.6726582278481009
+error(test):  1.2251416514987552
+acc(test):  0.6594936708860765
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1880554508025738
+accuracy(val):0.6739240506329113
+error(test):  1.214517952108304
+acc(test):  0.6581645569620256
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.176467642932624
+accuracy(val):0.674683544303797
+error(test):  1.2083795302768243
+acc(test):  0.6623417721518988
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.213119454193859
+accuracy(val):0.6702531645569624
+error(test):  1.2346576036375974
+acc(test):  0.6601898734177215
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.1872028710344602
+accuracy(val):0.6743037974683548
+error(test):  1.2080496788169712
+acc(test):  0.6625316455696206
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.206539542162813
+accuracy(val):0.6663924050632916
+error(test):  1.2294125928523232
+acc(test):  0.6589873417721513
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.1926717375959717
+accuracy(val):0.6662658227848102
+error(test):  1.2189911710472623
+acc(test):  0.6620253164556964
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.2032603209415975
+accuracy(val):0.6653797468354432
+error(test):  1.233126127246339
+acc(test):  0.656455696202532
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.2045329128549296
+accuracy(val):0.6639873417721518
+error(test):  1.2318618820273144
+acc(test):  0.6570253164556961
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.191433098532144
+accuracy(val):0.6682911392405065
+error(test):  1.2179811893358707
+acc(test):  0.6572784810126582
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1901851496988947
+accuracy(val):0.6717088607594939
+error(test):  1.2160925665197038
+acc(test):  0.658354430379747
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.1917256450788694
+accuracy(val):0.6729746835443039
+error(test):  1.222705450218319
+acc(test):  0.6613924050632913
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.212515630503178
+accuracy(val):0.6610126582278485
+error(test):  1.23504507515624
+acc(test):  0.654430379746835
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.207107669378936
+accuracy(val):0.6687341772151899
+error(test):  1.2259231562807036
+acc(test):  0.6525316455696205
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.1
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.2180454657201774
+accuracy(val):0.6646202531645569
+error(test):  1.2331376941608825
+acc(test):  0.6545569620253159
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 2.0830351788862718
+accuracy(val):0.4591139240506328
+error(test):  2.1003291326776705
+acc(test):  0.44670886075949356
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 2.0011542958609776
+accuracy(val):0.4717721518987342
+error(test):  2.015164582665858
+acc(test):  0.4670886075949367
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): 2.0568820267412695
+accuracy(val):0.465379746835443
+error(test):  2.090484459430072
+acc(test):  0.4553797468354431
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.7645932120867958
+accuracy(val):0.5328481012658229
+error(test):  1.7914948660767294
+acc(test):  0.5258227848101265
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.7710054511141673
+accuracy(val):0.5309493670886073
+error(test):  1.7912086991404286
+acc(test):  0.5219620253164556
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.7473080919779282
+accuracy(val):0.5414556962025314
+error(test):  1.7777081528208383
+acc(test):  0.5310126582278483
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.581992778122516
+accuracy(val):0.5798101265822786
+error(test):  1.6008636927083364
+acc(test):  0.5708860759493672
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.5985022051691256
+accuracy(val):0.57253164556962
+error(test):  1.622569029206856
+acc(test):  0.5627215189873418
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.593176320001926
+accuracy(val):0.5710759493670885
+error(test):  1.6153790151311027
+acc(test):  0.5662658227848101
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.934153548192685
+accuracy(val):0.4836708860759494
+error(test):  1.9617489704921927
+acc(test):  0.47734177215189877
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 2.0522951540705434
+accuracy(val):0.4446835443037973
+error(test):  2.0764041305961367
+acc(test):  0.44025316455696195
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.8920415797512196
+accuracy(val):0.48316455696202526
+error(test):  1.929620717122479
+acc(test):  0.4772151898734175
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.6509473458540913
+accuracy(val):0.5502531645569618
+error(test):  1.6684560311809054
+acc(test):  0.5436708860759492
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.6549787438713996
+accuracy(val):0.5484810126582277
+error(test):  1.6723195712074927
+acc(test):  0.5429746835443037
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.6425309594980277
+accuracy(val):0.5535443037974681
+error(test):  1.6753133811636496
+acc(test):  0.5408227848101265
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.4848509387252065
+accuracy(val):0.5947468354430373
+error(test):  1.5085947489815976
+acc(test):  0.5854430379746833
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.475959794375252
+accuracy(val):0.5912658227848101
+error(test):  1.5015331477623464
+acc(test):  0.5818354430379745
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.4635651882635927
+accuracy(val):0.5983544303797466
+error(test):  1.4861951667374185
+acc(test):  0.5956329113924049
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.9101545788283405
+accuracy(val):0.4718987341772154
+error(test):  1.9445460391083407
+acc(test):  0.46335443037974716
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 2.0098908038662633
+accuracy(val):0.45500000000000007
+error(test):  2.03293274448741
+acc(test):  0.4498101265822784
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): 1.8516796569007004
+accuracy(val):0.49139240506329096
+error(test):  1.8827584824766983
+acc(test):  0.48379746835443055
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.5837189087600407
+accuracy(val):0.5606329113924053
+error(test):  1.6124621957885361
+acc(test):  0.5577215189873419
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.5938648727194196
+accuracy(val):0.5610759493670887
+error(test):  1.6144824837072187
+acc(test):  0.5531645569620255
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): 1.5639785310218748
+accuracy(val):0.567151898734177
+error(test):  1.5813656966549257
+acc(test):  0.5612658227848103
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.4151990334874913
+accuracy(val):0.6085443037974682
+error(test):  1.4426920325885448
+acc(test):  0.5946202531645568
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.4181241287345923
+accuracy(val):0.606645569620253
+error(test):  1.4424799792442093
+acc(test):  0.6020886075949365
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 0.0001
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): 1.4161028757740088
+accuracy(val):0.6071518987341775
+error(test):  1.4434177324910442
+acc(test):  0.5983544303797467
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886035
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886045
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 1
+hidden_dim: 32
+num_epochs: 100
+error(val): nan
+accuracy(val):0.02075949367088605
+error(test):  nan
+acc(test):  0.02145569620253161
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): nan
+accuracy(val):0.02075949367088605
+error(test):  nan
+acc(test):  0.021455696202531623
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886045
+error(test):  nan
+acc(test):  0.021455696202531623
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 1
+hidden_dim: 64
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886052
+error(test):  nan
+acc(test):  0.021455696202531613
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): nan
+accuracy(val):0.02075949367088604
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): nan
+accuracy(val):0.02075949367088604
+error(test):  nan
+acc(test):  0.021455696202531613
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 1
+hidden_dim: 128
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886052
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): nan
+accuracy(val):0.02075949367088605
+error(test):  nan
+acc(test):  0.02145569620253161
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886052
+error(test):  nan
+acc(test):  0.021455696202531616
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 2
+hidden_dim: 32
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886062
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): nan
+accuracy(val):0.02075949367088606
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886045
+error(test):  nan
+acc(test):  0.021455696202531634
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 2
+hidden_dim: 64
+num_epochs: 100
+error(val): nan
+accuracy(val):0.02075949367088605
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): nan
+accuracy(val):0.02075949367088605
+error(test):  nan
+acc(test):  0.021455696202531616
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886055
+error(test):  nan
+acc(test):  0.021455696202531616
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 2
+hidden_dim: 128
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886038
+error(test):  nan
+acc(test):  0.021455696202531634
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886055
+error(test):  nan
+acc(test):  0.021455696202531606
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886055
+error(test):  nan
+acc(test):  0.021455696202531613
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 3
+hidden_dim: 32
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886045
+error(test):  nan
+acc(test):  0.021455696202531627
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): nan
+accuracy(val):0.02075949367088606
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886052
+error(test):  nan
+acc(test):  0.02145569620253162
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 3
+hidden_dim: 64
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886055
+error(test):  nan
+acc(test):  0.021455696202531613
+
+index: 1
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886045
+error(test):  nan
+acc(test):  0.021455696202531616
+
+index: 2
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): nan
+accuracy(val):0.020759493670886062
+error(test):  nan
+acc(test):  0.021455696202531595
+
+index: 3
+optimizer: SGD
+activation: NoActivation
+learning_rate: 1
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 100
+error(val): nan
+accuracy(val):0.02075949367088606
+error(test):  nan
+acc(test):  0.02145569620253161
+

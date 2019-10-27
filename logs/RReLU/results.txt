@@ -1,0 +1,126 @@
+index: 1
+lower: 0.001
+upper: 0.2
+optimizer: SGD
+activation: RandomReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.49643459440362
+accuracy(val):0.8385443037974679
+error(test):  0.5370616264362262
+acc(test):  0.8242405063291135
+
+index: 2
+lower: 0.001
+upper: 0.2
+optimizer: SGD
+activation: RandomReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.4921888228173133
+accuracy(val):0.8391139240506331
+error(test):  0.530161100742182
+acc(test):  0.825
+
+index: 3
+lower: 0.001
+upper: 0.2
+optimizer: SGD
+activation: RandomReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.49078281261602325
+accuracy(val):0.839746835443038
+error(test):  0.5267073045190293
+acc(test):  0.8272784810126584
+
+index: 1
+lower: 0.001
+upper: 0.01
+optimizer: SGD
+activation: RandomReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.49233022426036555
+accuracy(val):0.8390506329113918
+error(test):  0.5223221139009262
+acc(test):  0.8279113924050632
+
+index: 2
+lower: 0.001
+upper: 0.01
+optimizer: SGD
+activation: RandomReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.491985852418472
+accuracy(val):0.8380379746835439
+error(test):  0.5266904684871442
+acc(test):  0.8288607594936704
+
+index: 3
+lower: 0.001
+upper: 0.01
+optimizer: SGD
+activation: RandomReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.4967449745587885
+accuracy(val):0.8379113924050631
+error(test):  0.525589848361819
+acc(test):  0.8279113924050632
+
+index: 1
+lower: 0.01
+upper: 0.2
+optimizer: SGD
+activation: RandomReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.5077349150956535
+accuracy(val):0.8365822784810125
+error(test):  0.5436842633293616
+acc(test):  0.8206962025316453
+
+index: 2
+lower: 0.01
+upper: 0.2
+optimizer: SGD
+activation: RandomReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.49391379237307437
+accuracy(val):0.8381012658227839
+error(test):  0.5263193816359613
+acc(test):  0.8302531645569623
+
+index: 3
+lower: 0.01
+upper: 0.2
+optimizer: SGD
+activation: RandomReluLayer
+learning_rate: 0.01
+num_hidden_layers: 3
+hidden_dim: 128
+num_epochs: 50
+error(val): 0.493404332406835
+accuracy(val):0.8356962025316457
+error(test):  0.5401629178465384
+acc(test):  0.8246202531645568
+
